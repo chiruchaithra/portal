@@ -36,7 +36,7 @@ function App() {
 
     const reverseObj = (obj) => {
         let newObj = {}
-        Object.keys(obj).sort().reverse().forEach((key) => {newObj[key] = obj[key]})
+        Object.keys(obj).sort().reverse().forEach((key) => {newObj[key] = obj[key]});
         return newObj
     }
 
