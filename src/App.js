@@ -26,6 +26,7 @@ function App() {
                 prev={...prev}
                 //Remove items from array
                 prev[source.droppableId].items.splice(source.index,1)
+
                 //add to particular column like(todo,inprogress,done)
                 prev[destination.droppableId].items.splice(destination.index,0,itemSourceCopy)
                 return prev
