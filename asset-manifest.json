@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chiruchaithra/todoportal.git/static/css/main.54dfca6a.css",
-    "main.js": "/chiruchaithra/todoportal.git/static/js/main.9a0451ce.js",
-    "static/js/787.cb2eb619.chunk.js": "/chiruchaithra/todoportal.git/static/js/787.cb2eb619.chunk.js",
-    "index.html": "/chiruchaithra/todoportal.git/index.html",
-    "main.54dfca6a.css.map": "/chiruchaithra/todoportal.git/static/css/main.54dfca6a.css.map",
-    "main.9a0451ce.js.map": "/chiruchaithra/todoportal.git/static/js/main.9a0451ce.js.map",
-    "787.cb2eb619.chunk.js.map": "/chiruchaithra/todoportal.git/static/js/787.cb2eb619.chunk.js.map"
+    "main.css": "/todoportal.git/static/css/main.54dfca6a.css",
+    "main.js": "/todoportal.git/static/js/main.767ec047.js",
+    "static/js/787.cb2eb619.chunk.js": "/todoportal.git/static/js/787.cb2eb619.chunk.js",
+    "index.html": "/todoportal.git/index.html",
+    "main.54dfca6a.css.map": "/todoportal.git/static/css/main.54dfca6a.css.map",
+    "main.767ec047.js.map": "/todoportal.git/static/js/main.767ec047.js.map",
+    "787.cb2eb619.chunk.js.map": "/todoportal.git/static/js/787.cb2eb619.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54dfca6a.css",
-    "static/js/main.9a0451ce.js"
+    "static/js/main.767ec047.js"
   ]
 }
