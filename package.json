@@ -2,7 +2,7 @@
   "name": "cyware",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/chiruchaithra/todoportal.git",
+  "homepage": "https://chiruchaithra.github.io/todoportal.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
